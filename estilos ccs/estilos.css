@@ -2,11 +2,20 @@ body
 {
     color:black|;
     text-align: center;
-    font font-family: "Helvetica" ;
-    font-size: 16px
+    font font-family: "Arial" ;
+    font-size: 20px
     margin: 0;
     padding: 0;
 
+}
+#cabecera
+{
+    background: blueviolet;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0, 0.75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }
 #container
 {
